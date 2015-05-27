@@ -16,7 +16,7 @@
         resources = [
         ],
         scripts = [
-            js+"jquery-2.0.3.min.js"
+            "https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"
         ],
         symbols = {
             "stage": {
@@ -160,6 +160,7 @@
                             title: 'close window',
                             tabindex: '0',
                             cursor: 'pointer',
+                            opacity: '1',
                             fill: ["rgba(0,0,0,0)",im+"closewindowdarwin.png",'0px','0px']
                         },
                         {
@@ -182,7 +183,7 @@
                             fill: ["rgba(0,0,0,0)",im+"Charles_Darwin.png",'0px','0px']
                         },
                         {
-                            id: 'chime1symmetric',
+                            id: 'spokenText',
                             display: 'none',
                             type: 'audio',
                             tag: 'audio',
@@ -202,7 +203,7 @@
                     }
                 },
                 timeline: {
-                    duration: 19284.83,
+                    duration: 19500,
                     autoPlay: false,
                     data: [
                         [
@@ -256,6 +257,26 @@
                             'none'
                         ],
                         [
+                            "eid38",
+                            "opacity",
+                            0,
+                            0,
+                            "linear",
+                            "${closewindowdarwin}",
+                            '0',
+                            '0'
+                        ],
+                        [
+                            "eid39",
+                            "opacity",
+                            19500,
+                            0,
+                            "linear",
+                            "${closewindowdarwin}",
+                            '0',
+                            '1'
+                        ],
+                        [
                             "eid26",
                             "display",
                             0,
@@ -276,22 +297,22 @@
                             'block'
                         ],
                         [
+                            "eid24",
+                            "display",
+                            0,
+                            0,
+                            "linear",
+                            "${background}",
+                            'block',
+                            'block'
+                        ],
+                        [
                             "eid22",
                             "display",
                             0,
                             0,
                             "linear",
                             "${backgroundwText}",
-                            'block',
-                            'block'
-                        ],
-                        [
-                            "eid20",
-                            "display",
-                            0,
-                            0,
-                            "linear",
-                            "${texthide}",
                             'block',
                             'block'
                         ],
@@ -316,16 +337,16 @@
                             'block'
                         ],
                         [
-                            "eid24",
+                            "eid20",
                             "display",
                             0,
                             0,
                             "linear",
-                            "${background}",
+                            "${texthide}",
                             'block',
                             'block'
                         ],
-                            [ "eid37", "trigger", 0, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['play', '${chime1symmetric}', [] ] ]
+                            [ "eid37", "trigger", 0, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['play', '${spokenText}', [] ] ]
                     ]
                 }
             },
@@ -339,9 +360,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '145', '49', 'auto', 'auto'],
-                            id: 'Group6',
                             type: 'group',
+                            id: 'Group6',
+                            rect: [0, 0, '145', '49', 'auto', 'auto'],
                             c: [
                             {
                                 type: 'rect',
@@ -350,8 +371,8 @@
                                 stroke: ['1px', 'rgba(36,27,9,1.00)', 'solid'],
                                 cursor: 'pointer',
                                 rect: [0, 0, '143px', '47px', 'auto', 'auto'],
-                                fill: ['rgba(154,117,39,1.00)', [270, [['rgba(222,191,127,1.00)', 0], ['rgba(173,131,43,1.00)', 51], ['rgba(101,76,25,1.00)', 100]]]],
-                                boxShadow: ['', '0px', '0px', '3px', '1px', 'rgba(0,0,0,0.46)']
+                                boxShadow: ['', '0px', '0px', '3px', '1px', 'rgba(0,0,0,0.46)'],
+                                fill: ['rgba(154,117,39,1.00)', [270, [['rgba(222,191,127,1.00)', 0], ['rgba(173,131,43,1.00)', 51], ['rgba(101,76,25,1.00)', 100]]]]
                             },
                             {
                                 type: 'text',
@@ -361,8 +382,8 @@
                                 tabindex: '0',
                                 rect: [29, 12, 'auto', 'auto', 'auto', 'auto'],
                                 title: 'Hide Text',
-                                align: 'left',
-                                font: ['open-sans, sans-serif', [18, ''], 'rgba(0,0,0,1)', '600', 'none', 'normal', '', 'nowrap']
+                                font: ['open-sans, sans-serif', [18, ''], 'rgba(0,0,0,1)', '600', 'none', 'normal', '', 'nowrap'],
+                                align: 'left'
                             }]
                         }
                     ],
@@ -390,9 +411,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '145', '49', 'auto', 'auto'],
-                            id: 'Group7',
                             type: 'group',
+                            id: 'Group7',
+                            rect: [0, 0, '145', '49', 'auto', 'auto'],
                             c: [
                             {
                                 type: 'rect',
@@ -401,8 +422,8 @@
                                 stroke: ['1px', 'rgba(36,27,9,1.00)', 'solid'],
                                 cursor: 'pointer',
                                 rect: [0, 0, '143px', '47px', 'auto', 'auto'],
-                                fill: ['rgba(214,176,95,1.00)', [270, [['rgba(222,191,127,1.00)', 0], ['rgba(173,131,43,1.00)', 51], ['rgba(101,76,25,1.00)', 100]]]],
-                                boxShadow: ['', 0, 0, '3px', '1px', 'rgba(0,0,0,0.46)']
+                                boxShadow: ['', 0, 0, '3px', '1px', 'rgba(0,0,0,0.46)'],
+                                fill: ['rgba(214,176,95,1.00)', [270, [['rgba(222,191,127,1.00)', 0], ['rgba(173,131,43,1.00)', 51], ['rgba(101,76,25,1.00)', 100]]]]
                             }]
                         },
                         {
@@ -412,8 +433,8 @@
                             tabindex: '0',
                             rect: [22, 12, 'auto', 'auto', 'auto', 'auto'],
                             title: 'Show Text',
-                            font: ['open-sans, sans-serif', [18, ''], 'rgba(0,0,0,1)', '600', 'none', 'normal', '', 'nowrap'],
-                            align: 'left'
+                            align: 'left',
+                            font: ['open-sans, sans-serif', [18, ''], 'rgba(0,0,0,1)', '600', 'none', 'normal', '', 'nowrap']
                         }
                     ],
                     style: {

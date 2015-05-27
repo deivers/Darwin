@@ -85,7 +85,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          var textEl = sym.$("bodyText");
          var maxScroll = textEl[0].scrollHeight - textEl[0].clientHeight + 100; // 50 of this is for safety margin at the end
          var maxTime = sym.getDuration();
-         //console.log(e.elapsed +"  "+ maxScroll +"  "+ maxTime);
+         console.log(e.elapsed +"  "+ maxScroll +"  "+ maxTime);
          textEl.scrollTop(Math.floor((e.elapsed/maxTime) * maxScroll) - 50); // 50 for safety margin at beginning
          
 

@@ -2,17 +2,13 @@
 {
 
 	"expanded:images/HalH.png":"nil",
-	"symbol_closeX":{
-		"element_${gruppoX}":{
-			"timelineColor2":"0x81aa62",
-			"timelineColor3":"0x5b6c4d",
-			"timelineColor":"0x91c767"}},
+	"pref__general__AutoKeyframeProperties":"false",
 	"texthide-Default Timeline_playhead_ms":"0",
 	"expanded:images/closewindow4.png":"nil",
 	"expanded:images/closewindowdarwin.png":"nil",
 	"pref__general__FilterNonAnimatedElements":"false",
 	"expanded:images/arizona.jpg":"nil",
-	"closeWin-Default Timeline_playhead_ms":"0",
+	"gradientSwatches":"-webkit-linear-gradient(270deg,rgba(72,54,18,1.00) 0%,rgba(36,27,9,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(222,191,127,1.00) 0%,rgba(173,131,43,1.00) 51%,rgba(101,76,25,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(101,76,25,1.00) 2%,rgba(171,129,43,1.00) 17%,rgba(222,191,127,1.00) 40%,rgba(233,211,168,1.00) 52%,rgba(222,191,127,1.00) 59%,rgba(171,129,43,1.00) 81%,rgba(101,76,25,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(131,99,33,1.00) 0%,rgba(233,211,168,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(131,99,33,1.00) 0%,rgba(222,191,127,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(101,76,25,1.00) 2%,rgba(171,129,43,1.00) 16%,rgba(222,191,127,1.00) 43%,rgba(233,211,168,1.00) 50%,rgba(222,191,127,1.00) 60%,rgba(171,129,43,1.00) 84%,rgba(101,76,25,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(255,220,177,1.00) 45%,rgba(230,186,135,1.00) 61%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(254,215,168,1.00) 45%,rgba(254,214,164,1.00) 57%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(162,89,0,1.00) 0%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(254,214,164,1.00) 46%,rgba(254,214,164,1.00) 54%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(254,214,164,1.00) 0%,rgba(172,94,0,1.00) 75%,rgba(143,66,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(162,89,0,1.00) 2%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(230,186,135,1.00) 0%,rgba(172,94,0,1.00) 75%,rgba(143,66,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(230,186,135,1.00) 0%,rgba(172,94,0,1.00) 51%,rgba(143,66,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(230,186,135,1.00) 0%,rgba(172,94,0,1.00) 50%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(255,226,191,1.00) 0%,rgba(172,94,0,1.00) 50%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(230,186,135,1.00) 41%,rgba(254,214,164,1.00) 52%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(172,94,0,1.00) 49%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(162,89,0,1.00) 16%,rgba(230,186,135,1.00) 41%,rgba(254,214,164,1.00) 54%,rgba(172,94,0,1.00) 88%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(162,89,0,1.00) 18%,rgba(255,226,191,1.00) 48%,rgba(172,94,0,1.00) 82%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(172,94,0,1.00) 50%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(95,52,0,1.00) 0%,rgba(162,89,0,1.00) 12%,rgba(230,186,135,1.00) 41%,rgba(254,214,164,1.00) 55%,rgba(162,89,0,1.00) 87%,rgba(95,52,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 0%,rgba(162,89,0,1.00) 16%,rgba(230,186,135,1.00) 45%,rgba(254,214,164,1.00) 55%,rgba(162,89,0,1.00) 89%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 0%,rgba(162,89,0,1.00) 15%,rgba(255,221,183,1.00) 50%,rgba(162,89,0,1.00) 85%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(82,38,0,1.00) 0%,rgba(162,89,0,1.00) 20%,rgba(254,214,164,1.00) 47%,rgba(255,197,127,1.00) 52%,rgba(162,89,0,1.00) 76%,rgba(82,38,0,1.00) 97%)|-webkit-linear-gradient(270deg,rgba(229,205,155,1.00) 0%,rgba(215,176,98,1.00) 55%,rgba(165,124,41,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(176,132,44,1.00) 0%,rgba(209,168,77,1.00) 47%,rgba(151,113,37,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(0,0,0,1.00) 48%,rgba(150,114,38,1.00) 60%,rgba(40,30,10,1.00) 95%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(0,0,0,1.00) 27%,rgba(107,82,27,1.00) 52%,rgba(209,168,77,1.00) 60%,rgba(165,124,41,1.00) 64%,rgba(40,30,10,1.00) 71%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(107,82,27,1.00) 47%,rgba(63,48,16,1.00) 54%,rgba(165,124,41,1.00) 60%,rgba(209,168,77,1.00) 61%,rgba(40,30,10,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(63,48,16,1.00) 0%,rgba(107,82,27,1.00) 47%,rgba(209,168,77,1.00) 61%,rgba(165,124,41,1.00) 66%,rgba(40,30,10,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(105,80,27,1.00) 0%,rgba(176,132,44,1.00) 22%,rgba(209,168,77,1.00) 45%,rgba(165,124,41,1.00) 74%,rgba(69,53,18,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(165,124,41,1.00) 0%,rgba(105,80,27,1.00) 34%,rgba(105,80,27,1.00) 68%,rgba(167,117,8,0.88) 100%)|-webkit-linear-gradient(270deg,rgba(165,124,41,1.00) 0%,rgba(105,80,27,1.00) 34%,rgba(105,80,27,1.00) 68%,rgba(167,117,8,0.88) 100%)|-webkit-linear-gradient(270deg,rgba(215,180,103,1.00) 0%,rgba(255,255,255,0.47) 34%,rgba(255,255,255,0.59) 68%,rgba(215,180,103,1.00) 100%)",
 	"closewindow-Default Timeline_playhead_ms":"0",
 	"symbol_seeText":{
 		"element_${button}":{
@@ -29,21 +25,21 @@
 	"StageZoomFactor":"50",
 	"colorSwatches":"rgba(93,70,23,1.00)|rgba(173,131,43,1.00)|rgba(154,117,39,1.00)|rgba(36,27,9,1.00)|rgba(46,35,11,1.00)|rgba(72,54,18,1.00)|rgba(101,76,25,1.00)|rgba(243,231,208,1.00)|rgba(233,211,168,1.00)|rgba(222,191,127,1.00)|rgba(214,176,95,1.00)|rgba(204,156,55,1.00)|rgba(171,129,43,1.00)|rgba(131,99,33,1.00)|rgba(172,94,0,1.00)|rgba(198,138,64,1.00)|rgba(230,186,135,1.00)|rgba(114,62,0,1.00)|rgba(95,52,0,1.00)|rgba(74,40,0,1.00)|rgba(254,214,164,1.00)|rgba(57,32,0,1.00)|rgba(73,41,1,1.00)|rgba(254,231,204,1.00)|rgba(162,89,0,1.00)|rgba(255,221,183,1.00)|rgba(143,66,0,1.00)|rgba(108,50,0,1.00)|rgba(111,48,0,1.00)|rgba(255,207,167,1.00)|rgba(177,82,0,1.00)|rgba(255,217,185,1.00)|rgba(138,64,0,1.00)|rgba(82,38,0,1.00)|rgba(148,79,0,1.00)|rgba(201,107,0,1.00)|rgba(207,116,0,1.00)|rgba(69,38,0,1.00)|rgba(201,113,0,0.41)|rgba(154,86,0,1.00)|rgba(130,73,0,1.00)|rgba(124,70,0,1.00)|rgba(98,55,0,1.00)|rgba(255,228,193,1.00)|rgba(180,101,0,1.00)|rgba(201,113,0,1.00)|rgba(0,0,0,0.46)|rgba(43,83,61,1.00)|rgba(206,229,216,1.00)|rgba(127,188,154,1.00)|rgba(180,215,195,1.00)|rgba(73,139,102,1.00)|rgba(0,0,0,0.31)|rgba(247,240,225,1.00)|rgba(103,79,26,1.00)|rgba(215,176,98,1.00)|rgba(0,0,0,1.00)|rgba(0,0,0,0.88)|rgba(229,205,155,1.00)|rgba(204,154,53,1.00)|rgba(255,255,255,1.00)|rgba(0,0,0,0.32)|rgba(105,80,27,1.00)|rgba(177,136,45,1.00)|rgba(176,132,44,1.00)|rgba(165,124,41,1.00)|rgba(40,30,10,1.00)|rgba(63,48,16,1.00)|rgba(69,53,18,1.00)|rgba(246,239,223,1.00)|rgba(167,117,8,0.88)|rgba(0,0,0,0.72)|rgba(5,21,5,1.00)|rgba(31,111,28,1.00)|rgba(164,126,42,1.00)|rgba(132,101,34,1.00)|rgba(134,103,35,1.00)|rgba(255,255,255,0.59)|rgba(215,180,103,1.00)",
 	"expanded:images/closewindow3.png":"nil",
-	"nextElementColorIndex":"3",
+	"mediagroup_media/chime1symmetric.wav":"chime1symmetric",
 	"pref__general__GenerateSmoothTransitions":"false",
 	"mediagroup_media/water.mp3":"water",
 	"HTMLFileName":"template_darwin.html",
-	"expanded:images/Charles_Darwin.png":"nil",
+	"stage-Default Timeline_playhead_ms":"19500",
 	"symbol_textShow":{
-		"element_${Text7}":{
-			"timelineColor2":"0x107faa",
-			"timelineColor3":"0x295a6d",
-			"timelineColor":"0x008dc8"},
 		"element_${seeText2}":{
 			"timelineColor2":"0x1095d2",
 			"timelineColor3":"0x29647e",
 			"animationEnabled":"true",
 			"timelineColor":"0x00a9fa"},
+		"element_${Text7}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"timelineColor":"0x008dc8"},
 		"element_${Group5}":{
 			"timelineColor2":"0x5a558a",
 			"timelineColor3":"0x4a485e",
@@ -53,7 +49,7 @@
 			"timelineColor3":"0x29647e",
 			"animationEnabled":"true",
 			"timelineColor":"0x00a9fa"}},
-	"mediagroup_media/chime1symmetric.wav":"chime1symmetric",
+	"pixelsPerMs":"0.024315330918114",
 	"mediagroup_media/arizona.mp3":"arizona",
 	"ModelData":"{\
 \"stage\": {\
@@ -80,8 +76,25 @@
 \
    }}\
 }",
-	"gradientSwatches":"-webkit-linear-gradient(270deg,rgba(72,54,18,1.00) 0%,rgba(36,27,9,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(222,191,127,1.00) 0%,rgba(173,131,43,1.00) 51%,rgba(101,76,25,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(101,76,25,1.00) 2%,rgba(171,129,43,1.00) 17%,rgba(222,191,127,1.00) 40%,rgba(233,211,168,1.00) 52%,rgba(222,191,127,1.00) 59%,rgba(171,129,43,1.00) 81%,rgba(101,76,25,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(131,99,33,1.00) 0%,rgba(233,211,168,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(131,99,33,1.00) 0%,rgba(222,191,127,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(101,76,25,1.00) 2%,rgba(171,129,43,1.00) 16%,rgba(222,191,127,1.00) 43%,rgba(233,211,168,1.00) 50%,rgba(222,191,127,1.00) 60%,rgba(171,129,43,1.00) 84%,rgba(101,76,25,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(255,220,177,1.00) 45%,rgba(230,186,135,1.00) 61%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(254,215,168,1.00) 45%,rgba(254,214,164,1.00) 57%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(162,89,0,1.00) 0%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(254,214,164,1.00) 46%,rgba(254,214,164,1.00) 54%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(254,214,164,1.00) 0%,rgba(172,94,0,1.00) 75%,rgba(143,66,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(162,89,0,1.00) 2%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(230,186,135,1.00) 0%,rgba(172,94,0,1.00) 75%,rgba(143,66,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(230,186,135,1.00) 0%,rgba(172,94,0,1.00) 51%,rgba(143,66,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(230,186,135,1.00) 0%,rgba(172,94,0,1.00) 50%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(255,226,191,1.00) 0%,rgba(172,94,0,1.00) 50%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 2%,rgba(162,89,0,1.00) 12%,rgba(230,186,135,1.00) 41%,rgba(254,214,164,1.00) 52%,rgba(162,89,0,1.00) 86%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(172,94,0,1.00) 49%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(162,89,0,1.00) 16%,rgba(230,186,135,1.00) 41%,rgba(254,214,164,1.00) 54%,rgba(172,94,0,1.00) 88%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(162,89,0,1.00) 18%,rgba(255,226,191,1.00) 48%,rgba(172,94,0,1.00) 82%,rgba(74,40,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(74,40,0,1.00) 2%,rgba(172,94,0,1.00) 50%,rgba(255,226,191,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(95,52,0,1.00) 0%,rgba(162,89,0,1.00) 12%,rgba(230,186,135,1.00) 41%,rgba(254,214,164,1.00) 55%,rgba(162,89,0,1.00) 87%,rgba(95,52,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 0%,rgba(162,89,0,1.00) 16%,rgba(230,186,135,1.00) 45%,rgba(254,214,164,1.00) 55%,rgba(162,89,0,1.00) 89%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(114,62,0,1.00) 0%,rgba(162,89,0,1.00) 15%,rgba(255,221,183,1.00) 50%,rgba(162,89,0,1.00) 85%,rgba(114,62,0,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(82,38,0,1.00) 0%,rgba(162,89,0,1.00) 20%,rgba(254,214,164,1.00) 47%,rgba(255,197,127,1.00) 52%,rgba(162,89,0,1.00) 76%,rgba(82,38,0,1.00) 97%)|-webkit-linear-gradient(270deg,rgba(229,205,155,1.00) 0%,rgba(215,176,98,1.00) 55%,rgba(165,124,41,1.00) 100%)|-webkit-linear-gradient(270deg,rgba(176,132,44,1.00) 0%,rgba(209,168,77,1.00) 47%,rgba(151,113,37,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(0,0,0,1.00) 48%,rgba(150,114,38,1.00) 60%,rgba(40,30,10,1.00) 95%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(0,0,0,1.00) 27%,rgba(107,82,27,1.00) 52%,rgba(209,168,77,1.00) 60%,rgba(165,124,41,1.00) 64%,rgba(40,30,10,1.00) 71%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(107,82,27,1.00) 47%,rgba(63,48,16,1.00) 54%,rgba(165,124,41,1.00) 60%,rgba(209,168,77,1.00) 61%,rgba(40,30,10,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(63,48,16,1.00) 0%,rgba(107,82,27,1.00) 47%,rgba(209,168,77,1.00) 61%,rgba(165,124,41,1.00) 66%,rgba(40,30,10,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(105,80,27,1.00) 0%,rgba(176,132,44,1.00) 22%,rgba(209,168,77,1.00) 45%,rgba(165,124,41,1.00) 74%,rgba(69,53,18,1.00) 100%)|-webkit-radial-gradient(50% 50%, ellipse farthest-corner,rgba(165,124,41,1.00) 0%,rgba(105,80,27,1.00) 34%,rgba(105,80,27,1.00) 68%,rgba(167,117,8,0.88) 100%)|-webkit-linear-gradient(270deg,rgba(165,124,41,1.00) 0%,rgba(105,80,27,1.00) 34%,rgba(105,80,27,1.00) 68%,rgba(167,117,8,0.88) 100%)|-webkit-linear-gradient(270deg,rgba(215,180,103,1.00) 0%,rgba(255,255,255,0.47) 34%,rgba(255,255,255,0.59) 68%,rgba(215,180,103,1.00) 100%)",
-	"pref__general__AutoKeyframeProperties":"false",
+	"expanded:images/water.jpg":"nil",
+	"symbol_texthide":{
+		"element_${hide_text}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d"},
+		"element_${BUTTON}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${Group6}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"element_${textHide}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"}},
 	"closeX-Default Timeline_playhead_ms":"0",
 	"symbol_textHide":{
 		"element_${hideText2}":{
@@ -111,8 +124,38 @@
 			"timelineColor2":"0x1aa38f",
 			"timelineColor3":"0x2a6a61",
 			"timelineColor":"0x00bda4"}},
-	"expanded:images/BettyB.png":"nil",
+	"hideText-Default Timeline_playhead_ms":"0",
 	"expanded:images/book.jpg":"nil",
+	"symbol_hideText":{
+		"element_${button}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"false",
+			"timelineColor":"0xceaef4"}},
+	"symbol_textshow":{
+		"element_${show_text}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${BUTTON}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"false",
+			"timelineColor":"0xeedf79"},
+		"element_${Group7}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"false",
+			"timelineColor":"0x008dc8"},
+		"element_${textShow5}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"false",
+			"timelineColor":"0xceaef4"}},
+	"viewStartY":"0",
+	"viewStartMs":"-205.63158349925",
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"mediagroup_media/water.ogg":"water",
 	"symbol_stage":{
 		"element_${audio}":{
 			"timelineColor2":"0x168c84",
@@ -124,7 +167,11 @@
 			"timelineColor3":"0x7e4b52",
 			"animationEnabled":"false",
 			"timelineColor":"0xfb657a"},
-		"dummyStageParentHeight":"898px",
+		"element_${hideText4}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"animationEnabled":"false",
+			"timelineColor":"0xffd46d"},
 		"element_${Darwinbook_1859}":{
 			"timelineColor2":"0xb099ce",
 			"timelineColor3":"0x70657c",
@@ -170,11 +217,7 @@
 			"timelineColor3":"0x70657c",
 			"animationEnabled":"true",
 			"timelineColor":"0xceaef4"},
-		"element_${closewindow3}":{
-			"timelineColor2":"0x4fa275",
-			"timelineColor3":"0x456a55",
-			"animationEnabled":"false",
-			"timelineColor":"0x50bd82"},
+		"defaultStageParentHeight":"898px",
 		"element_${Text7}":{
 			"timelineColor2":"0xba5b89",
 			"timelineColor3":"0x734a5f",
@@ -195,6 +238,11 @@
 			"timelineColor3":"0x70657c",
 			"animationEnabled":"false",
 			"timelineColor":"0xceaef4"},
+		"element_${spokenText}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
 		"element_${titleText}":{
 			"timelineColor2":"0x168c84",
 			"timelineColor3":"0x2a605c",
@@ -243,6 +291,7 @@
 		"element_${closewindowdarwin}":{
 			"timelineColor2":"0x1095d2",
 			"timelineColor3":"0x29647e",
+			"animationEnabled":"true",
 			"timelineColor":"0x00a9fa"},
 		"element_${bettyblack}":{
 			"timelineColor2":"0x5a558a",
@@ -279,12 +328,16 @@
 			"timelineColor3":"0x2a6a61",
 			"animationEnabled":"true",
 			"timelineColor":"0x00bda4"},
-		"defaultStageParentHeight":"898px",
-		"element_${juraX}":{
-			"timelineColor2":"0xba5b89",
-			"timelineColor3":"0x734a5f",
+		"element_${textshow}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"true",
+			"timelineColor":"0x63599f"},
+		"element_${closeX}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
 			"animationEnabled":"false",
-			"timelineColor":"0xdb619d"},
+			"timelineColor":"0xffd46d"},
 		"element_${textShow5}":{
 			"timelineColor2":"0xd35d6e",
 			"timelineColor3":"0x7e4b52",
@@ -295,11 +348,11 @@
 			"timelineColor3":"0x295a6d",
 			"animationEnabled":"true",
 			"timelineColor":"0x008dc8"},
-		"element_${Group}":{
-			"timelineColor2":"0x5a558a",
-			"timelineColor3":"0x4a485e",
+		"element_${seeText}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
 			"animationEnabled":"false",
-			"timelineColor":"0x63599f"},
+			"timelineColor":"0xffd46d"},
 		"element_${Group4}":{
 			"timelineColor2":"0x1aa38f",
 			"timelineColor3":"0x2a6a61",
@@ -330,27 +383,26 @@
 			"timelineColor3":"0x70657c",
 			"animationEnabled":"false",
 			"timelineColor":"0xceaef4"},
-		"element_${gruppoX}":{
-			"timelineColor2":"0x1095d2",
-			"timelineColor3":"0x29647e",
+		"element_${axolotl2}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
 			"animationEnabled":"false",
-			"timelineColor":"0x00a9fa"},
-		"element_${RoundRect2Copy}":{
-			"timelineColor2":"0x1095d2",
-			"timelineColor3":"0x29647e",
-			"animationEnabled":"false",
-			"timelineColor":"0x00a9fa"},
+			"timelineColor":"0x2f73ad"},
+		"element_${Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
 		"codeTreeElementPopupFilter":"",
 		"element_${seeTextCopy}":{
 			"timelineColor2":"0x4fa275",
 			"timelineColor3":"0x456a55",
 			"animationEnabled":"false",
 			"timelineColor":"0x50bd82"},
-		"element_${imagebox}":{
-			"timelineColor2":"0x81aa62",
-			"timelineColor3":"0x5b6c4d",
-			"animationEnabled":"false",
-			"timelineColor":"0x91c767"},
+		"element_${BettyB}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"true",
+			"timelineColor":"0x00bda4"},
 		"element_${Playbar}":{
 			"timelineColor2":"0xd35d6e",
 			"timelineColor3":"0x7e4b52",
@@ -361,38 +413,28 @@
 			"timelineColor3":"0x29647e",
 			"animationEnabled":"false",
 			"timelineColor":"0x00a9fa"},
-		"element_${bodyText}":{
-			"timelineColor2":"0x4fa275",
-			"timelineColor3":"0x456a55",
-			"animationEnabled":"true",
-			"timelineColor":"0x50bd82"},
+		"element_${imagebox}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
 		"element_${X}":{
 			"timelineColor2":"0x326a96",
 			"timelineColor3":"0x385063",
 			"animationEnabled":"false",
 			"timelineColor":"0x2f73ad"},
 		"dummyStageParentWidth":"720px",
-		"element_${cell_size}":{
-			"timelineColor2":"0x81aa62",
-			"timelineColor3":"0x5b6c4d",
+		"element_${textShow}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
 			"animationEnabled":"false",
-			"timelineColor":"0x91c767"},
+			"timelineColor":"0x008dc8"},
 		"element_${containerwText}":{
 			"timelineColor2":"0x5a558a",
 			"timelineColor3":"0x4a485e",
 			"animationEnabled":"true",
 			"timelineColor":"0x63599f"},
 		"element_${cell_size_aif}":{
-			"timelineColor2":"0xba5b89",
-			"timelineColor3":"0x734a5f",
-			"animationEnabled":"false",
-			"timelineColor":"0xdb619d"},
-		"element_${hideText4}":{
-			"timelineColor2":"0xd8b467",
-			"timelineColor3":"0x81714f",
-			"animationEnabled":"false",
-			"timelineColor":"0xffd46d"},
-		"element_${Group2}":{
 			"timelineColor2":"0xba5b89",
 			"timelineColor3":"0x734a5f",
 			"animationEnabled":"false",
@@ -407,21 +449,27 @@
 			"timelineColor3":"0x2a605c",
 			"animationEnabled":"false",
 			"timelineColor":"0x00a096"},
+		"element_${clickfortext}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"false",
+			"timelineColor":"0xeedf79"},
 		"element_${image_cubes}":{
 			"timelineColor2":"0x1095d2",
 			"timelineColor3":"0x29647e",
 			"animationEnabled":"false",
 			"timelineColor":"0x00a9fa"},
-		"element_${Text3Copy7}":{
+		"dummyStageParentHeight":"898px",
+		"element_${Group6}":{
 			"timelineColor2":"0x168c84",
 			"timelineColor3":"0x2a605c",
 			"animationEnabled":"false",
 			"timelineColor":"0x00a096"},
-		"element_${blackCircleCopy}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
+		"element_${Text6}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
 			"animationEnabled":"false",
-			"timelineColor":"0xeedf79"},
+			"timelineColor":"0x00a096"},
 		"element_${background}":{
 			"timelineColor2":"0x4fa275",
 			"timelineColor3":"0x456a55",
@@ -437,12 +485,12 @@
 			"timelineColor3":"0x2a6a61",
 			"animationEnabled":"false",
 			"timelineColor":"0x00bda4"},
-		"element_${seeText2}":{
+		"element_${dr_black}":{
 			"timelineColor2":"0x5a558a",
 			"timelineColor3":"0x4a485e",
 			"animationEnabled":"false",
 			"timelineColor":"0x63599f"},
-		"element_${dr_black}":{
+		"element_${seeText2}":{
 			"timelineColor2":"0x5a558a",
 			"timelineColor3":"0x4a485e",
 			"animationEnabled":"false",
@@ -452,31 +500,26 @@
 			"timelineColor3":"0x385063",
 			"animationEnabled":"false",
 			"timelineColor":"0x2f73ad"},
-		"element_${Text6}":{
+		"element_${blackCircleCopy}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"false",
+			"timelineColor":"0xeedf79"},
+		"element_${Text3Copy7}":{
 			"timelineColor2":"0x168c84",
 			"timelineColor3":"0x2a605c",
 			"animationEnabled":"false",
 			"timelineColor":"0x00a096"},
-		"element_${Group6}":{
-			"timelineColor2":"0x168c84",
-			"timelineColor3":"0x2a605c",
-			"animationEnabled":"false",
-			"timelineColor":"0x00a096"},
-		"element_${chime1symmetric}":{
-			"timelineColor2":"0x81aa62",
-			"timelineColor3":"0x5b6c4d",
-			"animationEnabled":"true",
-			"timelineColor":"0x91c767"},
 		"element_${fredoka-oneX}":{
 			"timelineColor2":"0xcbbd71",
 			"timelineColor3":"0x7b7652",
 			"animationEnabled":"false",
 			"timelineColor":"0xeedf79"},
-		"element_${clickfortext}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
+		"element_${RoundRect2Copy}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
 			"animationEnabled":"false",
-			"timelineColor":"0xeedf79"},
+			"timelineColor":"0x00a9fa"},
 		"element_${Text3Copy2}":{
 			"timelineColor2":"0xd8b467",
 			"timelineColor3":"0x81714f",
@@ -487,52 +530,42 @@
 			"timelineColor3":"0x295a6d",
 			"animationEnabled":"false",
 			"timelineColor":"0x008dc8"},
-		"element_${textShow}":{
-			"timelineColor2":"0x107faa",
-			"timelineColor3":"0x295a6d",
+		"element_${Group2}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
 			"animationEnabled":"false",
-			"timelineColor":"0x008dc8"},
-		"element_${BettyB}":{
-			"timelineColor2":"0x1aa38f",
-			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0xdb619d"},
+		"element_${closewindow3}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"false",
+			"timelineColor":"0x50bd82"},
+		"element_${juraX}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"animationEnabled":"false",
+			"timelineColor":"0xdb619d"},
+		"element_${cell_size}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"element_${bodyText}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
 			"animationEnabled":"true",
-			"timelineColor":"0x00bda4"},
-		"element_${Stage}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
-			"timelineColor":"0xeedf79"},
-		"element_${axolotl2}":{
-			"timelineColor2":"0x326a96",
-			"timelineColor3":"0x385063",
-			"animationEnabled":"false",
-			"timelineColor":"0x2f73ad"},
-		"element_${seeText}":{
-			"timelineColor2":"0xd8b467",
-			"timelineColor3":"0x81714f",
-			"animationEnabled":"false",
-			"timelineColor":"0xffd46d"},
-		"element_${closeX}":{
-			"timelineColor2":"0xd8b467",
-			"timelineColor3":"0x81714f",
-			"animationEnabled":"false",
-			"timelineColor":"0xffd46d"},
-		"element_${textshow}":{
+			"timelineColor":"0x50bd82"},
+		"element_${Group}":{
 			"timelineColor2":"0x5a558a",
 			"timelineColor3":"0x4a485e",
-			"animationEnabled":"true",
-			"timelineColor":"0x63599f"}},
-	"seeText-Default Timeline_playhead_ms":"0",
-	"PreloadAudio":"auto",
-	"viewStartMs":"-205.63158349925",
-	"pref__general__AutoKeyframePropertiesArmed":"true",
-	"mediagroup_media/water.ogg":"water",
-	"symbol_hideText":{
-		"element_${button}":{
-			"timelineColor2":"0xb099ce",
-			"timelineColor3":"0x70657c",
 			"animationEnabled":"false",
-			"timelineColor":"0xceaef4"}},
-	"TransitionIdCounter":"37",
+			"timelineColor":"0x63599f"},
+		"element_${gruppoX}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"animationEnabled":"false",
+			"timelineColor":"0x00a9fa"}},
+	"PreloadAudio":"auto",
 	"expanded:images/closewindow2.png":"nil",
 	"expanded:images/Darwinbook_1859.png":"nil",
 	"symbol_closeWin":{
@@ -549,47 +582,15 @@
 			"timelineColor2":"0xb099ce",
 			"timelineColor3":"0x70657c",
 			"timelineColor":"0xceaef4"}},
-	"viewStartY":"20",
-	"symbol_textshow":{
-		"element_${show_text}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
-			"timelineColor":"0xeedf79"},
-		"element_${BUTTON}":{
-			"timelineColor2":"0xcbbd71",
-			"timelineColor3":"0x7b7652",
-			"animationEnabled":"false",
-			"timelineColor":"0xeedf79"},
-		"element_${textShow5}":{
-			"timelineColor2":"0xb099ce",
-			"timelineColor3":"0x70657c",
-			"animationEnabled":"false",
-			"timelineColor":"0xceaef4"},
-		"element_${Group7}":{
-			"timelineColor2":"0x107faa",
-			"timelineColor3":"0x295a6d",
-			"animationEnabled":"false",
-			"timelineColor":"0x008dc8"}},
+	"TransitionIdCounter":"40",
+	"expanded:images/Charles_Darwin.png":"nil",
 	"usedBOM":"false",
-	"hideText-Default Timeline_playhead_ms":"0",
-	"symbol_texthide":{
-		"element_${hide_text}":{
-			"timelineColor2":"0xd8b467",
-			"timelineColor3":"0x81714f",
-			"timelineColor":"0xffd46d"},
-		"element_${BUTTON}":{
+	"seeText-Default Timeline_playhead_ms":"0",
+	"symbol_closeX":{
+		"element_${gruppoX}":{
 			"timelineColor2":"0x81aa62",
 			"timelineColor3":"0x5b6c4d",
-			"timelineColor":"0x91c767"},
-		"element_${textHide}":{
-			"timelineColor2":"0x4fa275",
-			"timelineColor3":"0x456a55",
-			"animationEnabled":"false",
-			"timelineColor":"0x50bd82"},
-		"element_${Group6}":{
-			"timelineColor2":"0x4fa275",
-			"timelineColor3":"0x456a55",
-			"timelineColor":"0x50bd82"}},
-	"expanded:images/water.jpg":"nil",
-	"pixelsPerMs":"0.024315330918114",
-	"stage-Default Timeline_playhead_ms":"0"}
+			"timelineColor":"0x91c767"}},
+	"expanded:images/BettyB.png":"nil",
+	"closeWin-Default Timeline_playhead_ms":"0",
+	"nextElementColorIndex":"4"}
