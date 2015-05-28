@@ -29,7 +29,7 @@
 	"pref__general__GenerateSmoothTransitions":"false",
 	"mediagroup_media/water.mp3":"water",
 	"HTMLFileName":"template_darwin.html",
-	"stage-Default Timeline_playhead_ms":"19500",
+	"stage-Default Timeline_playhead_ms":"0",
 	"symbol_textShow":{
 		"element_${seeText2}":{
 			"timelineColor2":"0x1095d2",
@@ -154,7 +154,7 @@
 			"timelineColor":"0xceaef4"}},
 	"viewStartY":"0",
 	"viewStartMs":"-205.63158349925",
-	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"pref__general__AutoKeyframePropertiesArmed":"true",
 	"mediagroup_media/water.ogg":"water",
 	"symbol_stage":{
 		"element_${audio}":{
@@ -432,8 +432,9 @@
 		"element_${containerwText}":{
 			"timelineColor2":"0x5a558a",
 			"timelineColor3":"0x4a485e",
-			"animationEnabled":"true",
-			"timelineColor":"0x63599f"},
+			"timelineColor":"0x63599f",
+			"locked":"false",
+			"animationEnabled":"true"},
 		"element_${cell_size_aif}":{
 			"timelineColor2":"0xba5b89",
 			"timelineColor3":"0x734a5f",

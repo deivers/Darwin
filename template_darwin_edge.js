@@ -52,7 +52,7 @@
                         },
                         {
                             id: 'containerwText',
-                            display: 'block',
+                            display: 'none',
                             type: 'rect',
                             rect: ['12', '23', '689', '873', 'auto', 'auto'],
                             tabindex: '0',
@@ -63,7 +63,7 @@
                         },
                         {
                             id: 'backgroundwText',
-                            display: 'block',
+                            display: 'none',
                             type: 'rect',
                             rect: ['28', '38', '659', '847', 'auto', 'auto'],
                             tabindex: '0',
@@ -74,7 +74,7 @@
                         },
                         {
                             id: 'textback',
-                            display: 'block',
+                            display: 'none',
                             type: 'rect',
                             rect: ['139', '751', '442', '134', 'auto', 'auto'],
                             tabindex: '0',
@@ -85,7 +85,7 @@
                         },
                         {
                             id: 'bodyText',
-                            display: 'block',
+                            display: 'none',
                             type: 'text',
                             rect: ['164', '767', '394', '112', 'auto', 'auto'],
                             overflow: 'scroll',
@@ -98,7 +98,7 @@
                         {
                             id: 'texthide',
                             symbolName: 'texthide',
-                            display: 'block',
+                            display: 'none',
                             type: 'rect',
                             rect: ['287', '664', '145', '49', 'auto', 'auto'],
                             title: 'click to hide text',
@@ -204,7 +204,7 @@
                 },
                 timeline: {
                     duration: 19500,
-                    autoPlay: false,
+                    autoPlay: true,
                     data: [
                         [
                             "eid36",
@@ -233,8 +233,8 @@
                             0,
                             "linear",
                             "${bodyText}",
-                            'block',
-                            'block'
+                            'none',
+                            'none'
                         ],
                         [
                             "eid19",
@@ -245,6 +245,16 @@
                             "${textshow}",
                             'block',
                             'block'
+                        ],
+                        [
+                            "eid20",
+                            "display",
+                            0,
+                            0,
+                            "linear",
+                            "${texthide}",
+                            'none',
+                            'none'
                         ],
                         [
                             "eid31",
@@ -263,8 +273,8 @@
                             0,
                             "linear",
                             "${closewindowdarwin}",
-                            '0',
-                            '0'
+                            '1',
+                            '1'
                         ],
                         [
                             "eid39",
@@ -273,7 +283,7 @@
                             0,
                             "linear",
                             "${closewindowdarwin}",
-                            '0',
+                            '1',
                             '1'
                         ],
                         [
@@ -283,8 +293,8 @@
                             0,
                             "linear",
                             "${textback}",
-                            'block',
-                            'block'
+                            'none',
+                            'none'
                         ],
                         [
                             "eid23",
@@ -293,8 +303,8 @@
                             0,
                             "linear",
                             "${containerwText}",
-                            'block',
-                            'block'
+                            'none',
+                            'none'
                         ],
                         [
                             "eid24",
@@ -313,8 +323,8 @@
                             0,
                             "linear",
                             "${backgroundwText}",
-                            'block',
-                            'block'
+                            'none',
+                            'none'
                         ],
                         [
                             "eid25",
@@ -333,16 +343,6 @@
                             0,
                             "linear",
                             "${Charles_Darwin}",
-                            'block',
-                            'block'
-                        ],
-                        [
-                            "eid20",
-                            "display",
-                            0,
-                            0,
-                            "linear",
-                            "${texthide}",
                             'block',
                             'block'
                         ],
